@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/relativeMain">
+    <GridView
+        android:id="@+id/gridView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:columnWidth="100dp"
+        android:drawSelectorOnTop="true"
+        android:gravity="center"
+        android:numColumns="auto_fit"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="5dp"
+        android:focusable="true"
+        android:clickable="true" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00ffffff"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal"
+        android:padding="2dp"
+        android:layout_marginBottom="10dp">
+        <Button
+            android:id="@+id/btnCamera"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:background="@android:color/transparent"
+            android:layout_weight="2"
+            android:text="@string/icon_camera"
+            android:paddingRight="10dp" />
+        <Button
+            android:id="@+id/btnGallery"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:paddingLeft="10dp"
+            android:text="@string/icon_gallery"
+            android:background="@android:color/transparent"
+            android:layout_weight="2" />
+    </LinearLayout>
+</RelativeLayout>

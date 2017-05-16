@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6211" systemVersion="14A298i" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ImageViewController">
+            <connections>
+                <outlet property="view" destination="2" id="RRd-Eg-VrN"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="2">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <subviews/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Images/sa0.jpg" width="256" height="170"/>
+        <image name="Images/sa1.jpg" width="256" height="170"/>
+        <image name="Images/sa10.jpg" width="256" height="170"/>
+        <image name="Images/sa11.jpg" width="256" height="170"/>
+        <image name="Images/sa12.jpg" width="256" height="170"/>
+        <image name="Images/sa13.jpg" width="256" height="170"/>
+        <image name="Images/sa14.jpg" width="256" height="170"/>
+        <image name="Images/sa15.jpg" width="256" height="170"/>
+        <image name="Images/sa16.jpg" width="256" height="170"/>
+        <image name="Images/sa17.jpg" width="256" height="170"/>
+        <image name="Images/sa18.jpg" width="256" height="170"/>
+        <image name="Images/sa19.jpg" width="256" height="170"/>
+        <image name="Images/sa2.jpg" width="256" height="170"/>
+        <image name="Images/sa20.jpg" width="256" height="170"/>
+        <image name="Images/sa21.jpg" width="256" height="170"/>
+        <image name="Images/sa22.jpg" width="256" height="170"/>
+        <image name="Images/sa23.jpg" width="256" height="170"/>
+        <image name="Images/sa24.jpg" width="256" height="170"/>
+        <image name="Images/sa25.jpg" width="256" height="170"/>
+        <image name="Images/sa26.jpg" width="256" height="170"/>
+        <image name="Images/sa27.jpg" width="256" height="170"/>
+        <image name="Images/sa28.jpg" width="256" height="170"/>
+        <image name="Images/sa29.jpg" width="256" height="170"/>
+        <image name="Images/sa3.jpg" width="256" height="170"/>
+        <image name="Images/sa30.jpg" width="256" height="170"/>
+        <image name="Images/sa31.jpg" width="256" height="170"/>
+        <image name="Images/sa32.jpg" width="256" height="170"/>
+        <image name="Images/sa33.jpg" width="256" height="170"/>
+        <image name="Images/sa34.jpg" width="256" height="170"/>
+        <image name="Images/sa35.jpg" width="256" height="170"/>
+        <image name="Images/sa36.jpg" width="256" height="170"/>
+        <image name="Images/sa37.jpg" width="256" height="170"/>
+        <image name="Images/sa38.jpg" width="256" height="170"/>
+        <image name="Images/sa4.jpg" width="256" height="170"/>
+        <image name="Images/sa5.jpg" width="256" height="170"/>
+        <image name="Images/sa6.jpg" width="256" height="170"/>
+        <image name="Images/sa7.jpg" width="256" height="170"/>
+        <image name="Images/sa8.jpg" width="256" height="170"/>
+        <image name="Images/sa9.jpg" width="256" height="170"/>
+        <image name="HelpScreens/AppointmentDetailTutorials.png" width="320" height="685"/>
+        <image name="HelpScreens/AppointmentTutorials.png" width="320" height="568"/>
+        <image name="HelpScreens/ClientListingTutorials.png" width="320" height="568"/>
+        <image name="HelpScreens/GraphScreenTutorials.png" width="320" height="568"/>
+        <image name="HelpScreens/IncomeDetailTutorials.png" width="320" height="662"/>
+        <image name="HelpScreens/IncomeListingTutorials.png" width="320" height="568"/>
+        <image name="HelpScreens/PreAddAppintmentTutorials.png" width="320" height="568"/>
+        <image name="HelpScreens/RegistrationTutorials.png" width="320" height="568"/>
+        <image name="HelpScreens/ServiceListingTutorials.png" width="320" height="568"/>
+        <image name="HelpScreens/SubServiceListingTutorials.png" width="320" height="568"/>
+        <image name="sa0.jpg" width="256" height="170"/>
+        <image name="sa1.jpg" width="256" height="170"/>
+        <image name="sa2.jpg" width="256" height="170"/>
+    </resources>
+</document>

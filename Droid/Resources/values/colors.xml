@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="primary">#3F51B5</color>
+  <color name="primary_dark">#303F9F</color>
+  <!--<color name="primary_light">#C5CAE9</color>-->
+  <color name="primary_light">#FAFAFA</color>
+  <color name="accent">#FFFFFF</color>
+  <color name="primary_text">#212121</color>
+  <color name="secondary_text">#F4F4F4F4</color>
+  <color name="icons">#212121</color>
+  <color name="white">#FFFFFF</color>
+  <color name="divider">#BDBDBD</color>
+  <color name="red">#FF0000</color>
+  <color name="tgfpizza_red">#E22025</color>
+  <color name="tgfpizza_yellow">#FFD114</color>
+  <color name="black">#000000</color>
+  <color name="gray">#D3D3D3</color>
+  <color name="darkgray">#A9A9A9</color>
+  <color name="nav_list_color">#E4E1E2</color>
+  <color name="button_next_background_color">#0066A7</color>
+
+
+
+  <color name="blue">#00abea</color>
+  <color name="white">#ffffff</color>
+</resources>

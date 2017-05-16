@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<resources>
+
+  <style name="PTAPPTheme" parent="Theme.AppCompat">
+
+  </style>
+
+   <style name="Theme.Splash" parent="Theme.AppCompat">  
+    <item name="android:windowBackground">@mipmap/splash_centered</item>  
+    <item name="android:windowNoTitle">true</item>  
+  </style>  
+	
+  <style name="PTAPP.Base" parent="Theme.AppCompat">
+    <item name="windowNoTitle">true</item>
+    <item name="windowActionBar">false</item>
+    <item name="colorPrimary">@color/primary_text</item>
+    <item name="colorPrimaryDark">@color/primary_dark</item>
+    <item name="colorAccent">@color/accent</item>
+    <!--Assigning custom color to drawer arrow and hanburger icon-->
+    <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+  </style>
+
+  <!--Navigation Drawer Color -->
+  <style name="DrawerArrowStyle" parent="@style/Widget.AppCompat.DrawerArrowToggle">
+    <item name="spinBars">true</item>
+    <item name="color">@android:color/white</item>
+  </style>
+
+
+  <!--Edit Text Style-->
+  <style name="EditTextHint" parent="Widget.Design.TextInputLayout">
+    <item name="colorAccent">@android:color/white</item>
+    <item name="android:textColorHint">@color/primary_text</item>
+    <item name="colorControlNormal">@color/white</item>
+    <item name="colorControlActivated">@color/white</item>
+    <item name="colorControlHighlight">@color/white</item>
+  </style>
+</resources>
